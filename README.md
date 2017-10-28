@@ -10,9 +10,13 @@ Description
 --------------------------------
 
   Parameters:
-    accessToken : Generate yours at https://developers.facebook.com/tools/explorer
+  
+    accessToken : Generate yours at https://developers.facebook.com/tools/explorer .
+    
     parameter : While post and comments using which paramter, we are filtering all the post and getting the desired one.
+    
     value: paramter that contains a specific value to get filtered.
+    
     reply : message that shoud be replied on the comment.
 
 Limitations
