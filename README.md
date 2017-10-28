@@ -19,6 +19,10 @@ Description
     
     reply : message that shoud be replied on the comment.
 
+Note
+--------------------------------
+This script will only for commenting on the comments that are made on the particular post in a page. it won't help in making comments on the post itself.
+
 Limitations
 --------------------------------
 
