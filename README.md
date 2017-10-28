@@ -26,5 +26,4 @@ This script will only for commenting on the comments that are made on the partic
 Limitations
 --------------------------------
 
-1. This script doesnot filter which comments are already commented and comment on all the matched requirements. So if script will run twice on the same post all the matched comments will get commented twice.
-
+This script doesnot filter which comments are already commented and comment on all the matched requirements. So if script will run twice on the same post all the matched comments will get commented twice.
