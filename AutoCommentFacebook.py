@@ -51,7 +51,7 @@ def readComments(postID,pageAccessToken, commentMsg):
 
 #Main function Starts:
 if __name__ == '__main__':
-	accessToken = "EAACEdEose0cBAN9M6Px5pWWfz2KmBN6bseGU5IKZBR1mkwMXY3K3v94NY1RhCccq2HMeDm9Xi4AiZAv7axvmad8EcLbEabNyGEiiiRQ3ZB5T9E22htYFdFtulx5WoGVWHxnuIXBpHYtOzfPMp8wfOjBRGW7OzfIyGPnioTZC9VljouwnpkuZAS0ZCRZAyBAZAIleKYZBpdaHszwZDZD"
+	accessToken = "EAACEdEose0cBANj5Nc0pgdB61UFdR06GlNiu6FuMyKTN9IvPr4ZB6a8zVzH2XEIP5x1Uoxm66X8u9QTPZBXrFeshlLRqEe9j9rTIYsF2Q2x9e18ZAqNEdVa3q4IliQsxFHLxGB0vTIEkzXBG7Hika88wV1ccTwPq9WlOjNqZCOddOBq8k7ymflR30jPUrR9fRT1e6EUNOAZDZD"
 	parameter = "name"
 	value = "Test"
 	#Get Page Details.
